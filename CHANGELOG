@@ -1,0 +1,14 @@
+The Dark Hordes - changelog
+---------------------------
+
+Version 0.5.0
+- General:
+    * Initial check-in to wesnoth-umc-dev svn repository by Shadow Master;
+      package for merging provided by AI
+    * Ran wmlindent
+    * Ran wmllint
+    * Ran wesnoth-optipng
+        + Total saved: 4 KB on 43 files
+- Scenarios:
+    * 05 - Inside the Tower:
+        + The cold power-up can be acquired by any skeletal unit
