@@ -1,6 +1,21 @@
 The Dark Hordes - changelog
 ---------------------------
 
+Version 0.5.0+svn
+- General:
+    * Campaign moved to 1.5, backport to 1.4 exists
+    * Too many bugfixes
+- Scenarios:
+    * 03 - Skull of Agarash:
+        + Dark Spirit Leganoth is now a hero unit
+    * 05 - Inside the Tower:
+        + Enemies no longer have a leader 
+            (and the game doesn't end at turn 2 because of this)
+- Units:
+    * Initiate line made up to date (arcane attacks) and rebalanced
+    * Dark Spirit now uses all its animation frames
+    * Initiate line animations changed (hopefully that means improved)
+
 Version 0.5.0
 - General:
     * Initial check-in to wesnoth-umc-dev svn repository by Shadow Master;
