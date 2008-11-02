@@ -5,6 +5,7 @@ Version 0.5.0+svn
 - General:
     * Campaign moved to 1.5, backport to 1.4 exists
     * Too many bugfixes
+    * Renamed Agarash to Morgorath to avoid copyright issues. (Lone Wolf)
 - Scenarios:
     * 03 - Skull of Agarash:
         + Dark Spirit Leganoth is now a hero unit

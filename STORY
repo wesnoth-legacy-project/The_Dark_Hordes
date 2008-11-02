@@ -14,7 +14,7 @@ Scenario 9 (Underground River) outline:
 -The dwarves that haven't run from the floods yet have no intention of leaving.
 -Plenty of other annoying things.
 
-At some point, Gwiti retrieves the other half of the Skull of Agarash,
+At some point, Gwiti retrieves the other half of the Skull of Morgorath,
  whether he is then revived or it becomes an artifact of great power is yet to
 be decided.
 
