@@ -3,6 +3,10 @@ Writing up a rought draft of the storyline here.
 Setting: around 800 YW, currently placed in the northwestern parts in and out
  of wesnoth.
 
+Crelanu's Book is introduced by Legend of Wesmere, given to Delfador in 
+Delfador's Memoirs, where it is hinted Asheviere took it for a while.
+The storytxt of "Crelanu's Book" implies that Ravanal turned to evil after
+perusing the book.
 
 Scenario 9 outline:
 -During the scenario, the cave gets re-flooded by magical means. (drowning!)
