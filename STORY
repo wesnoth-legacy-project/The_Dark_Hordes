@@ -12,11 +12,20 @@ Scenario 9 (Underground River) outline:
 -During the scenario, the cave gets re-flooded by magical means. (drowning!)
 -Naga swim around in the water, trying to claim the cave.
 -The dwarves that haven't run from the floods yet have no intention of leaving.
+    (say they're in a small are of the cave that is separated by chasm)
 -Plenty of other annoying things.
 
+gwiti studies the book for a while
+
+Scenario 10: gwiti goes north to find the other half of the skull.
+-possible re-encounter with leganoth
+-possibly using powers from the tome for the first time
 At some point, Gwiti retrieves the other half of the Skull of Morgorath,
  whether he is then revived or it becomes an artifact of great power is yet to
 be decided.
+
+ideas for the rest:
+-
 
 
 Gwiti's death (possible end of the campaign): by the hands of Elynia,
