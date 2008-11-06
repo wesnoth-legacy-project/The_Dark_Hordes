@@ -6,12 +6,16 @@ Version 0.5.0+svn
     * Campaign moved to 1.5, backport to 1.4 exists
     * Too many bugfixes
     * Renamed Agarash to Morgorath to avoid copyright issues. (Lone Wolf)
+    * Storyline improved for compatibility with IftU
+- Graphics & Artwork
+    * New DA line recolours by Orcish Shyde for Initiate and Deathmaster
 - Scenarios:
     * 03 - Skull of Morgorath:
         + Dark Spirit Leganoth is now a hero unit
     * 05 - Inside the Tower:
         + Enemies no longer have a leader 
             (and the game doesn't end at turn 2 because of this)
+        + Cold potions now give +50% damage and last forever
 - Units:
     * Initiate line made up to date (arcane attacks) and rebalanced
     * Dark Spirit now uses all its animation frames
