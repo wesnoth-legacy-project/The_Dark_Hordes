@@ -16,6 +16,8 @@ Version 0.5.0+svn
         + Enemies no longer have a leader 
             (and the game doesn't end at turn 2 because of this)
         + Cold potions now give +50% damage and last forever
+    * 08x - Bridge from part 1 to part 2, may be moved to 09x later on.
+    * 09 - Underground River (NEW)
 - Units:
     * Initiate line made up to date (arcane attacks) and rebalanced
     * Dark Spirit now uses all its animation frames
