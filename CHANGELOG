@@ -1,7 +1,7 @@
 The Dark Hordes - changelog
 ---------------------------
 
-Version 0.5.0+svn
+Version 0.6.0
 - General:
     * Campaign moved to 1.5, backport to 1.4 exists
     * Too many bugfixes
