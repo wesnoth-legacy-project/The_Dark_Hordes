@@ -8,25 +8,35 @@ Delfador's Memoirs, where it is hinted Asheviere took it for a while.
 The storytxt of "Crelanu's Book" implies that Ravanal turned to evil after
 perusing the book.
 
+Campaign part 1 name: something to do with escaping and running
+Campaign part 2 name: something to do with striking back at wesnoth
+
 Scenario 9 (Underground River) outline:
 -During the scenario, the cave gets re-flooded by magical means. (drowning!)
 -Naga swim around in the water, trying to claim the cave.
 -The dwarves that haven't run from the floods yet have no intention of leaving.
-    (say they're in a small are of the cave that is separated by chasm)
+    (say they're in a small part of the cave that is separated by chasm)
 -Plenty of other annoying things.
 
 gwiti studies the book for a while
 
+*** Split between campaign parts here (09x) ***
+
 Scenario 10: gwiti goes north to find the other half of the skull.
 -possible re-encounter with leganoth
--possibly using powers from the tome for the first time
+-possibly using powers from the tome for the first time <- recruit ghouls
 At some point, Gwiti retrieves the other half of the Skull of Morgorath,
  whether he is then revived or it becomes an artifact of great power is yet to
-be decided.
+be decided. (preferably the latter)
 
-After retrieving the Skull, Gwiti moves to strike at wesnoth. Remembering
-his fight with Aretu, he decides to first get rid of the High Council of
-Arch Magi in Alduin.
+Scenario 11? 12? 13?: After retrieving the Skull, Gwiti moves to strike at
+wesnoth. Remembering his fight with Aretu, he decides to first get rid of the
+High Council of Arch Magi in Alduin.
+-Approach: gwiti's army sails to the western shore of the island, gwiti and
+ skeletons wade to shore under cover of darkness. Rest of army needs to arrive
+by ship. No recruiting until you capture a keep.
+-Suprise: the magi don't react until their first attack (assassinations work)
+-Map: possibly a rework of HttT3 (half a millennium later, changes are fine)
 
 
 Gwiti's death (possible end of the campaign): by the hands of Elynia,
