@@ -6,3 +6,16 @@
 *.ign
 STORY
 
+#*#
+*.swp
+_info.cfg
+*.exe
+*.bat
+*.cmd
+*.com
+*.scr
+*.sh
+*.js
+*.vbs
+*.o
+Thumbs.db
