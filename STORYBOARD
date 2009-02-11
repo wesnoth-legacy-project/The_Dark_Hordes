@@ -1,0 +1,26 @@
+Actual "almost ready for carving into stone" non-vague stuff here.
+
+--------------------------------------------------------------------------------
+Scenario 10
+Name: Return to the Northlands
+Story:
+[legends_of_the_north.ogg] The orcs and undead easily defended the cave
+stronghold and when the water subsided, the nagas were driven off or slain.
+[northerners.ogg] Months later, Gwiti finished studying the Tome of Crelanu and
+departed for where he believed the other half of Morgorath's skull to be. The
+orcs, restless without an enemy to fight, eagerly followed.
+
+Scenario:
+music: northerners.ogg, vengeful.ogg the_dangerous_symphony.ogg
+Side 1 (human): Gwiti
+Side 2 (human): Tanar
+Side 3 (ai): J. Random Orc
+
+
+
+Dialogue on first ghoul recruit:
+Gwiti> Crelanu certainly knew some interesting magic!
+--------------------------------------------------------------------------------
+
+# vim: textwidth=80
+

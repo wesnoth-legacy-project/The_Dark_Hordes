@@ -22,7 +22,7 @@ gwiti studies the book for a while
 
 *** Split between campaign parts here (09x) ***
 
-Scenario 10: gwiti goes north to find the other half of the skull. Takes
+Scenarios 10-? gwiti goes north to find the other half of the skull. Takes
  restless orcs with him. From this moment Tanar can die; getting him killed
 causes immediate succession by someone hostile to you.
 -possible re-encounter with leganoth
