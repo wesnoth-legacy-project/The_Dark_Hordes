@@ -5,22 +5,37 @@ Scenario 10
 Name: Return to the Northlands
 Story:
 [legends_of_the_north.ogg] The orcs and undead easily defended the cave
-stronghold and when the water subsided, the nagas were driven off or slain.
+stronghold and when the water subsided, the nagas were driven off or slain,
+their magical artifact exhausted.
 [northerners.ogg] Months later, Gwiti finished studying the Tome of Crelanu and
 departed for where he believed the other half of Morgorath's skull to be. The
 orcs, restless without an enemy to fight, eagerly followed.
 
 Scenario:
 music: northerners.ogg, vengeful.ogg the_dangerous_symphony.ogg
-Side 1 (human): Gwiti
-Side 2 (human): Tanar
-Side 3 (ai): J. Random Orc
+Side 1 (human/undead): Gwiti
+Side 2 (human/orc): Tanar
+Side 3 (ai/orc): Vrork
 
-
+Start dialogue:
+Vrork> Which cave-orc dares to trespass on my land?
+Tanar> I am Tanar. My clan and I seek passage to the north, by force if need be.
+Vrork> I am the great Vrork! No weakling cave-ork will pass through my lands!
+Slay them, my grunts!
+Tanar> My brethren, the enemy we have been yearning to fight has arrived!
+Gwiti> It seems I'll have dead orcs marching with me as well as living ones. He,
+he he...
 
 Dialogue on first ghoul recruit:
 Gwiti> Crelanu certainly knew some interesting magic!
+
+Dialoge on Vrork's last breath:
+Vrork> No cave-ork can kill me! I am the might Vro...
+Vrork dies w/ animation.
+Killer|undead> I am no orc!
+Killer|orc> I didn't know surface orcs were this fragile.
+TODO: what happens here?
 --------------------------------------------------------------------------------
 
-# vim: textwidth=80
+# vim: tw=80
 
