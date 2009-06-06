@@ -20,7 +20,7 @@ Side 3 (ai/orc): Vrork
 Start dialogue:
 Vrork> Which cave-orc dares to trespass on my land?
 Tanar> I am Tanar. My clan and I seek passage to the north, by force if need be.
-Vrork> I am the great Vrork! No weakling cave-ork will pass through my lands!
+Vrork> I am the great Vrork! No weakling cave-orc will pass through my lands!
 Slay them, my grunts!
 Tanar> My brethren, the enemy we have been yearning to fight has arrived!
 Gwiti> It seems I'll have dead orcs marching with me as well as living ones. He,
@@ -29,13 +29,42 @@ he he...
 Dialogue on first ghoul recruit:
 Gwiti> Crelanu certainly knew some interesting magic!
 
-Dialoge on Vrork's last breath:
-Vrork> No cave-ork can kill me! I am the might Vro...
+Dialogue on Gwiti's last breath:
+What? I can't die! Noooo!
+defeat
+
+Dialogue on Tanar's last breath:
+Tanar> Avenge me, my brethren! We have been betrayed!
+a unit is selected as Tanar's second, is given leadership crown (FIXME: what happens if there are none?)
+Second> I never liked those undead anyway!
+side 2 is now ai-controlled and on its own team, hostile to side 1
+
+Dialogue on Vrork's last breath:
+Vrork> No cave-orc can kill me! I am the might Vro...
 Vrork dies w/ animation.
 Killer|undead> I am no orc!
 Killer|orc> I didn't know surface orcs were this fragile.
-TODO: what happens here?
+If more than 3 enemy orcs left:
+...
+trigger next event when enough of them killed.
+
+If at most 3 orcs left on side 3:
+enemy orc is selected from all hostile orcs
+enemy orc> We are getting slaughtered! Run for your lives!
+Gwiti> Let them run! All shall fear me!
+
+If Tanar's side is hostile and still alive at this point, they leave.
+Same if the second-in-command is killed.
 --------------------------------------------------------------------------------
+Scenario 11
+
+Scenario:
+Side 1 (human/undead): Gwiti
+Side 2 (human/orc): Tanar, if he's alive
+Side 3 (ai/orc): ?
+Side 4 (ai/orc): ?
+Side 5 (ai/orc): ?
+
 
 # vim: tw=80
 

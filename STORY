@@ -47,23 +47,18 @@ Gwiti makes landfall on mainland
 ...
 march towards weldyn
 ...
-Scenario ??: An elvish force lead by Elynia launches a surprise attack at Gwiti
+Scenario 14?: An elvish force lead by Elynia launches a surprise attack at Gwiti
  near the crossroads.
 ...
 Plan for march at weldyn here, possible grand battle with crown prince (under
 blackened sky), but we'd need some reason for gwiti to not have succesfully
 conquered wesnoth now. (or to pursue the fleeing king delvhar)
 --
-Tanar's armies arrive and either decides to betray gwiti or his armies don't
-feel like sharing power with undead.
---OR--
 Morgorath awakens and decides to get rid of this upstart who dares to command
  him.
-Let's go with the second, we can throw Tanar (or a surviving lieutenant, if
- you got him killed) in later.
 ...
 Weakened both militarily and physically, (attempting to control Morgorath)
- Gwiti flees. (where?)
+ Gwiti flees northeast.
 
 
 
