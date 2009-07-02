@@ -61,9 +61,9 @@ Scenario 11
 Scenario:
 Side 1 (human/undead): Gwiti
 Side 2 (human/orc): Tanar, if he's alive
-Side 3 (ai/orc): ?
-Side 4 (ai/orc): ?
-Side 5 (ai/orc): ?
+Side 3 (ai/orc): Kogran
+Side 4 (ai/orc): Eradush
+Side 5 (ai/orc): Prirag
 
 
 # vim: tw=80
