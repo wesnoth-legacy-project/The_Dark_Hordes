@@ -17,6 +17,9 @@ Side 1 (human/undead): Gwiti
 Side 2 (human/orc): Tanar
 Side 3 (ai/orc): Vrork
 
+Gwiti can now recruit Ghouls
+Tanar can now recruit Wolf Riders
+
 Start dialogue:
 Vrork> Which cave-orc dares to trespass on my land?
 Tanar> I am Tanar. My clan and I seek passage to the north, by force if need be.
@@ -35,7 +38,8 @@ defeat
 
 Dialogue on Tanar's last breath:
 Tanar> Avenge me, my brethren! We have been betrayed!
-a unit is selected as Tanar's second, is given leadership crown (FIXME: what happens if there are none?)
+a unit is selected as Tanar's second, is given leadership crown (What happens
+ if there are none? Nothing I guess)
 Second> I never liked those undead anyway!
 side 2 is now ai-controlled and on its own team, hostile to side 1
 
@@ -55,8 +59,16 @@ Gwiti> Let them run! All shall fear me!
 
 If Tanar's side is hostile and still alive at this point, they leave.
 Same if the second-in-command is killed.
+
+TODO: What happens on timeout?
 --------------------------------------------------------------------------------
 Scenario 11
+Name: An Orcish Coup
+Story:
+[northerners.ogg] Gwiti's research directed him north, further into the orcish
+lands.
+Eventually, he could sense the presence of the skull's other half. The feeling
+led him to what appeared to be an orcish capital.
 
 Scenario:
 Side 1 (human/undead): Gwiti
@@ -65,6 +77,39 @@ Side 3 (ai/orc): Kogran
 Side 4 (ai/orc): Eradush
 Side 5 (ai/orc): Prirag
 
+The scenario starts at first watch.
+
+Start dialogue:
+Gwiti> One of those three warlords has the skull, though I can't tell which.
+w/ Tanar:
+    Tanar> It is a large host they have gathered here. It would be wise to
+avoid fighting them head on, even if they haven't united under one banner.
+    Gwiti> I may have a way to assassinate the leaders, but we will need to
+draw away their forces...
+w/o Tanar:
+    Gwiti> And the army they command is huge; I haven't seen such a mass of
+orcs since Erzen. There should be easier way to get to the skull, let's see
+what Crelanu wrote...
+    Gwiti> Ah, yes, invisibility it was. I'm not sure if my dear brother
+qualifies as a lich though...
+Gwiti summons Nati the Nightgaunt
+Gwiti> Hello brother, you will be serving as ingredients today.
+...
+
+NOTE: see DM
+NOTE2: yes, apparently Gwiti carried Nati's skull with him all this time
+
+On Nati's last breath:
+Gwiti> Go back to the shades, you incompetent fool!
+
+On first dawn (third turn):
+Gwiti> Dear brother, would you be so kind to explain to me why I am visible?
+Nati> The light weakens me, the magic should resume at dusk.
+Gwiti> Perhaps you aren't as powerful as you had thought. A lich's eyes should
+keep me invisible even during the day.
+
+FIXME: Nati seems rather out of character here, though that may be explained
+by being bound into servitude.
 
 # vim: tw=80
 
