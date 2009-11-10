@@ -22,18 +22,17 @@ gwiti studies the book for a while
 
 *** Split between campaign parts here (09x) ***
 
-Scenarios 10-? gwiti goes north to find the other half of the skull. Takes
+Scenarios 10-11 gwiti goes north to find the other half of the skull. Takes
  restless orcs with him. From this moment Tanar can die; getting him killed
 causes immediate succession by someone hostile to you.
--possible re-encounter with leganoth
--possibly using powers from the tome for the first time <- recruit ghouls
-At some point, Gwiti retrieves the other half of the Skull of Morgorath,
- whether he is then revived or it becomes an artifact of great power is yet to
-be decided. (preferably the latter)
+-re-encounter with leganoth
+-using powers from the tome for the first time <- recruit ghouls
+In scenario 11, Gwiti retrieves the other half of the Skull of Morgorath,
+ at first it is simply an artifact of great power.
 
 ... Tanar is left north to gather more orcish forces
 
-Scenario 11? 12? 13?: After retrieving the Skull, Gwiti moves to strike at
+Scenario 12: After retrieving the Skull, Gwiti moves to strike at
 wesnoth. Remembering his fight with Aretu, he decides to first get rid of the
 High Council of Arch Magi in Alduin.
 -Approach: gwiti's army sails to the western shore of the island, gwiti and
@@ -48,23 +47,18 @@ Gwiti makes landfall on mainland
 ...
 march towards weldyn
 ...
-Scenario ??: An elvish force lead by Elynia launches a surprise attack at Gwiti
+Scenario 14?: An elvish force lead by Elynia launches a surprise attack at Gwiti
  near the crossroads.
 ...
 Plan for march at weldyn here, possible grand battle with crown prince (under
 blackened sky), but we'd need some reason for gwiti to not have succesfully
 conquered wesnoth now. (or to pursue the fleeing king delvhar)
 --
-Tanar's armies arrive and either decides to betray gwiti or his armies don't
-feel like sharing power with undead.
---OR--
 Morgorath awakens and decides to get rid of this upstart who dares to command
  him.
-Let's go with the second, we can throw Tanar (or a surviving lieutenant, if
- you got him killed) in later.
 ...
 Weakened both militarily and physically, (attempting to control Morgorath)
- Gwiti flees. (where?)
+ Gwiti flees northeast.
 
 
 
