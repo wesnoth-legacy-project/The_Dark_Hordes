@@ -97,19 +97,18 @@ Gwiti> Hello brother, you will be serving as ingredients today.
 ...
 
 NOTE: see DM
-NOTE2: yes, apparently Gwiti carried Nati's skull with him all this time
+NOTE2: yes, apparently Gwiti carried Nati's skull with him all this time.
+Isn't unintentional foreshadowing great? (see scenario 2)
 
 On Nati's last breath:
 Gwiti> Go back to the shades, you incompetent fool!
 
 On first dawn (third turn):
+Nati> Aaaaaaiiiiiiiiigh!
 Gwiti> Dear brother, would you be so kind to explain to me why I am visible?
-Nati> The light weakens me, the magic should resume at dusk.
+Nati> The light ... weakens me, the magic ... should resume ... at dusk.
 Gwiti> Perhaps you aren't as powerful as you had thought. A lich's eyes should
 keep me invisible even during the day.
-
-FIXME: Nati seems rather out of character here, though that may be explained
-by being bound into servitude.
 
 # vim: tw=80
 
