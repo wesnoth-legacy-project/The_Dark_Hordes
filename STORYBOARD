@@ -21,7 +21,7 @@ Gwiti can now recruit Ghouls
 Tanar can now recruit Wolf Riders
 
 Start dialogue:
-Vrork> Which cave-orc dares to trespass on my land?
+Vrork> Which cave-orc dares trespass on my land?
 Tanar> I am Tanar. My clan and I seek passage to the north, by force if need be.
 Vrork> I am the great Vrork! No weakling cave-orc will pass through my lands!
 Slay them, my grunts!
@@ -71,6 +71,7 @@ Eventually, he could sense the presence of the skull's other half. The feeling
 led him to what appeared to be an orcish capital.
 
 Scenario:
+Music: ??
 Side 1 (human/undead): Gwiti
 Side 2 (human/orc): Tanar, if he's alive
 Side 3 (ai/orc): Kogran
@@ -109,6 +110,23 @@ Gwiti> Dear brother, would you be so kind to explain to me why I am visible?
 Nati> The light ... weakens me, the magic ... should resume ... at dusk.
 Gwiti> Perhaps you aren't as powerful as you had thought. A lich's eyes should
 keep me invisible even during the day.
+--------------------------------------------------------------------------------
+Scenario 12
+Name: ?
+Story:
+w/ Tanar
+    [northerners.ogg] Tanar decided to use the death of the would-be
+Great Chiefs to subject the local tribes to his own rule. Plans to jointly
+invade Wesnoth were discussed.
+[?] Gwiti knew that as long as paladins and magi roamed the land, any invasion
+would be severely hindered. So he decided to strike at the source of his
+problems: Alduin.
+
+Scenario:
+Music: ??
+Side 1 (human/undead): Gwiti
+Side 2 (ai/human): ?
+...
 
 # vim: tw=80
 
