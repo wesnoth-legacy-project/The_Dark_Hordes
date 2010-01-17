@@ -112,7 +112,7 @@ Gwiti> Perhaps you aren't as powerful as you had thought. A lich's eyes should
 keep me invisible even during the day.
 --------------------------------------------------------------------------------
 Scenario 12
-Name: ?
+Name: Assault on Alduin
 Story:
 w/ Tanar
     [northerners.ogg] Tanar decided to use the death of the would-be
@@ -123,10 +123,15 @@ would be severely hindered. So he decided to strike at the source of his
 problems: Alduin.
 
 Scenario:
-Music: ??
+Music: loyalists.ogg, nunc_dimittis.ogg, suspense.ogg
 Side 1 (human/undead): Gwiti
 Side 2 (ai/human): ?
 ...
+
+Wake-up:
+Happens when the first human attacks undead. The human sides then go into
+battle-mode.
+Music: vengeful.ogg, the_city_falls.ogg, causualties_of_war.ogg
 
 # vim: tw=80
 
