@@ -12,7 +12,7 @@ departed for where he believed the other half of Morgorath's skull to be. The
 orcs, restless without an enemy to fight, eagerly followed.
 
 Scenario:
-music: northerners.ogg, vengeful.ogg the_dangerous_symphony.ogg
+music: northerners.ogg, vengeful.ogg, the_dangerous_symphony.ogg
 Side 1 (human/undead): Gwiti
 Side 2 (human/orc): Tanar
 Side 3 (ai/orc): Vrork
@@ -71,7 +71,7 @@ Eventually, he could sense the presence of the skull's other half. The feeling
 led him to what appeared to be an orcish capital.
 
 Scenario:
-Music: ??
+Music: northerners.ogg, siege_of_laurelmor.ogg, legends_of_the_north.ogg
 Side 1 (human/undead): Gwiti
 Side 2 (human/orc): Tanar, if he's alive
 Side 3 (ai/orc): Kogran

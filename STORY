@@ -43,24 +43,39 @@ by ship. No recruiting until you capture a keep.
 -Story: some aren't there or are hidden, the survivors send Elynia after Gwiti
 
 ...
-Gwiti makes landfall on mainland
+Scenario 13: Landfall
+Gwiti crushes Aldril.
 ...
-march towards weldyn
+Scenario 14: Ambush
+An elvish force lead by Elynia launches a surprise attack at Gwiti near the
+crossroads.
 ...
-Scenario 14?: An elvish force lead by Elynia launches a surprise attack at Gwiti
- near the crossroads.
-...
-Plan for march at weldyn here, possible grand battle with crown prince (under
-blackened sky), but we'd need some reason for gwiti to not have succesfully
-conquered wesnoth now. (or to pursue the fleeing king delvhar)
---
-Morgorath awakens and decides to get rid of this upstart who dares to command
- him.
-...
-Weakened both militarily and physically, (attempting to control Morgorath)
- Gwiti flees northeast.
+Scenario 15: The Crown Prince
+The crown prince has lead the army to defend Dan'Tonk. Gwiti was originally
+planning to either sack the city if it was weakly defended, or simply bypass
+it if it had good defenses, but with the entire Wesnothian army camped out,
+Weldyn will have to wait.
 
+After dusk, Gwiti blackens the sky and announces that they will never see the
+sun again.
 
+When Gwiti has defeated part of the army (or if he takes too long...),
+Morgorath awakens, appropriates some nearby bones, raises an army of his own
+and faces off against Gwiti. The Crown Prince wisely draws back his forces into
+the city.
+Morgorath takes control of more undead every turn.
+...
+Weakened, Gwiti flees northeast.
+
+...
+Scenario 16: Glyn's Forest
+Meetup with invading orcs. The orcs are not united, but attracted by the
+prospect of easy conquest. When they find undead being pursued by humans,
+everyone but Tanar (if alive) turns on the undead.
+
+Gwiti successfully escapes eastward.
+
+*** possibly after this campaign ***
 
 Gwiti's death (possible end of the campaign): by the hands of Elynia,
  who later becomes the lady of light.
