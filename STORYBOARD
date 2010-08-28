@@ -78,7 +78,7 @@ Side 3 (ai/orc): Kogran
 Side 4 (ai/orc): Eradush
 Side 5 (ai/orc): Prirag
 
-The scenario starts at first watch.
+The scenario starts at dusk.
 
 Start dialogue:
 Gwiti> One of those three warlords has the skull, though I can't tell which.
@@ -95,7 +95,11 @@ what Crelanu wrote...
 qualifies as a lich though...
 Gwiti summons Nati the Nightgaunt
 Gwiti> Hello brother, you will be serving as ingredients today.
-...
+Narrator> Some time passes...
+Gwiti> This potion is powerful as it is going to get. Let's see the effects.
+potion stuff
+Gwiti>  This should ease the retrieval of the skull, but those chieftains will still be hard to get to.
+Tanar> I can distract the patrols, but my clan cannot fight off this horde alone. You must not delay.
 
 NOTE: see DM
 NOTE2: yes, apparently Gwiti carried Nati's skull with him all this time.
@@ -104,7 +108,7 @@ Isn't unintentional foreshadowing great? (see scenario 2)
 On Nati's last breath:
 Gwiti> Go back to the shades, you incompetent fool!
 
-On first dawn (third turn):
+On first morning (fifth turn):
 Nati> Aaaaaaiiiiiiiiigh!
 Gwiti> Dear brother, would you be so kind to explain to me why I am visible?
 Nati> The light ... weakens me, the magic ... should resume ... at dusk.
