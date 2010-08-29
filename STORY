@@ -44,7 +44,7 @@ by ship. No recruiting until you capture a keep.
 
 ...
 Scenario 13: Landfall
-Gwiti crushes Aldril.
+Gwiti crushes an unprepared Aldril.
 ...
 Scenario 14: Ambush
 An elvish force lead by Elynia launches a surprise attack at Gwiti near the
