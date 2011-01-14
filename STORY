@@ -86,4 +86,4 @@ When Elynia kills Gwiti, (how to write that into this campaign I don't know)
  he stays true to his word and curses Elynia:
     to live until no living things remain
 As Shadow Master wrote it: http://wesnoth.pastebin.com/m38a523dd
-
+Or in appendix A.1.4: https://wesnoth-umc-dev.svn.sourceforge.net/svnroot/wesnoth-umc-dev/trunk/Invasion_from_the_Unknown/CHARACTERS
