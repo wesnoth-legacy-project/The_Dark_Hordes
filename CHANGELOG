@@ -1,7 +1,14 @@
 The Dark Hordes - changelog
 ---------------------------
 
+Version 0.7.0+svn
+
 Version 0.7.0
+- General
+    * WML updates
+- Scenarios
+    * 10 - Return to the Northlands (NEW)
+    * 11 - An Orcish Coup (NEW, unfinished)
 - Translations from Wescamp (delayed for a long time)
     * New translations: bg, el, eo, ko, ro, sl, sr
     * Updated translations: af, ca, cs, da, de, en_GB, es, et, eu, fi, fr, he,
