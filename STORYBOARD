@@ -132,6 +132,9 @@ Side 1 (human/undead): Gwiti
 Side 2 (ai/human): ?
 ...
 
+Objective:
+Kill all magi above level 1.
+
 Wake-up:
 Happens when the first human attacks undead. The human sides then go into
 battle-mode.
