@@ -2,8 +2,11 @@ The Dark Hordes - changelog
 ---------------------------
 
 Version 0.7.0+svn
+- General:
+    * Campaign updated for 1.10
 - Translations from Wescamp
-    * New translations: ga
+    * New translations: ga, sr@ijekavian, sr@ijekavianlatin
+    * Updated translations: (almost) all of the others
 - Units
     * Dread Lich adapted to new AMLA XP standard of 50 XP/level
 
