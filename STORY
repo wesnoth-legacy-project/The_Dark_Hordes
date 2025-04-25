@@ -1,12 +1,6 @@
 Writing up a rought draft of the storyline here.
 
-Setting: around 1100 YW, currently placed in the northwestern parts in and out
- of wesnoth. (or that's where it starts)
-
-Crelanu's Book is introduced by Legend of Wesmere, given to Delfador in 
-Delfador's Memoirs, where it is hinted Asheviere took it for a while.
-The storytxt of "Crelanu's Book" implies that Ravanal turned to evil after
-perusing the book.
+Setting: around 1100 YW, currently placed in the northwestern parts in and out of wesnoth. (or that's where it starts)
 
 Part 1 name: something with escaping and running (Escape the Living?)
 Part 2 name: something with striking back at wesnoth (The Death March?)
@@ -22,19 +16,14 @@ gwiti studies the book for a while
 
 *** Split between campaign parts here (09x) ***
 
-Scenarios 10-11 gwiti goes north to find the other half of the skull. Takes
- restless orcs with him. From this moment Tanar can die; getting him killed
-causes immediate succession by someone hostile to you.
+Scenarios 10-11 gwiti goes north to find the other half of the skull. Takes restless orcs with him. From this moment Tanar can die; getting him killed causes immediate succession by someone hostile to you.
 -re-encounter with leganoth
 -using powers from the tome for the first time <- recruit ghouls
-In scenario 11, Gwiti retrieves the other half of the Skull of Morgorath,
- at first it is simply an artifact of great power.
+In scenario 11, Gwiti retrieves the other half of the Skull of Morgorath, at first it is simply an artifact of great power.
 
 ... Tanar is left north to gather more orcish forces
 
-Scenario 12: After retrieving the Skull, Gwiti moves to strike at
-wesnoth. Remembering his fight with Aretu, he decides to first get rid of the
-High Council of Arch Magi in Alduin.
+Scenario 12: After retrieving the Skull, Gwiti moves to strike at wesnoth. Remembering his fight with Aretu, he decides to first get rid of the High Council of Arch Magi in Alduin.
 -Approach: gwiti's army sails to the western shore of the island, gwiti and
  skeletons wade to shore under cover of darkness. Rest of army needs to arrive
 by ship. No recruiting until you capture a keep.
@@ -45,45 +34,33 @@ by ship. No recruiting until you capture a keep.
 ...
 Scenario 13: Landfall
 Gwiti crushes an unprepared Aldril.
+
 ...
 Scenario 14: Ambush
-An elvish force lead by Elynia launches a surprise attack at Gwiti near the
-crossroads.
+An elvish force lead by Elynia launches a surprise attack at Gwiti near the crossroads. Elynia escapes, vows to avenge her fallen forces, and put them to rest.
+
 ...
 Scenario 15: The Crown Prince
-The crown prince has lead the army to defend Dan'Tonk. Gwiti was originally
-planning to either sack the city if it was weakly defended, or simply bypass
-it if it had good defenses, but with the entire Wesnothian army camped out,
-Weldyn will have to wait.
+The crown prince has lead the army to defend Dan'Tonk. Gwiti was originally planning to either sack the city if it was weakly defended, or simply bypass it if it had good defenses, but with the entire Wesnothian army camped out, Weldyn will have to wait.
 
-After dusk, Gwiti blackens the sky and announces that they will never see the
-sun again.
+After dusk, Gwiti blackens the sky and announces that they will never see the sun again.
 
-When Gwiti has defeated part of the army (or if he takes too long...),
-Morgorath awakens, appropriates some nearby bones, raises an army of his own
-and faces off against Gwiti. The Crown Prince wisely draws back his forces into
-the city.
-Morgorath takes control of more undead every turn.
-...
-Weakened, Gwiti flees northeast.
+When Gwiti has defeated part of the army (or if he takes too long...), Morgorath awakens, appropriates some nearby bones, raises an army of his own and demands Gwiti's submission, who predictably refuses. A battle between the two ensues, and the Crown Prince wisely draws his forces back into the city. After what appears to be an even fight at first, Morgorath takes control of more undead each turn, and Gwiti realizes he must flee. Having lost most of his army, and one of his most powerful artifacts, Gwiti flees northeast.
 
 ...
 Scenario 16: Glyn's Forest
-Meetup with invading orcs. The orcs are not united, but attracted by the
-prospect of easy conquest. When they find undead being pursued by humans,
-everyone but Tanar (if alive) turns on the undead.
+Meetup with invading orcs. The orcs are not united, but attracted by the prospect of easy conquest. When they find undead being pursued by humans, everyone but Tanar (if alive) turns on the undead.
 
 Gwiti successfully escapes eastward.
 
 *** possibly after this campaign ***
 
-Gwiti's death (possible end of the campaign): by the hands of Elynia,
- who later becomes the lady of light.
+Gwiti's death (possible end of the campaign): by the hands of Elynia, who later becomes the lady of light.
 At the start of the scenario, Elynia says that one of the two must die there.
 Gwiti replies that one will indeed die, and the other will live forever.
 
-When Elynia kills Gwiti, (how to write that into this campaign I don't know)
- he stays true to his word and curses Elynia:
+When Elynia kills Gwiti, (how to write that into this campaign I don't know) he stays true to his word and curses Elynia:
     to live until no living things remain
-As Shadow Master wrote it: http://wesnoth.pastebin.com/m38a523dd
-Or in appendix A.1.4: https://wesnoth-umc-dev.svn.sourceforge.net/svnroot/wesnoth-umc-dev/trunk/Invasion_from_the_Unknown/CHARACTERS
+Removed dead links, but ask Iris for more details.
+Deleted last version of the file:
+https://github.com/project-ethea/Invasion_from_the_Unknown/blob/de91b0da148466ad95de532eab34e917daeb89ec/CHARACTERS
