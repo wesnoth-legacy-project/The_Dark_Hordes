@@ -1,7 +1,13 @@
 The Dark Hordes - changelog
 ---------------------------
 
-Version 0.7.1+svn
+Version 0.8.0
+- General:
+    * Migrate repository to Git by AI0867
+    * Campaign updated for 1.18 with various bugfixes
+- Scenarios
+    * 11 - An Orcish Coup
+        + Finished map with villages
 - Translations from Wescamp
     * Updated translations: ga, nl, possibly others
 
