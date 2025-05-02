@@ -2,6 +2,17 @@ The Dark Hordes - changelog
 ---------------------------
 
 Version 0.8.0+dev
+- General:
+    * Codename Rebirth RC 1; basically too many fixes
+    * Some additional music
+- Scenarios
+    * 01 - A New Chance
+        + Revamped prose and gameplay
+        + Rewritten bigmap of Work-in-Progress
+- Units
+    * Added: Grimreaper
+    * Major updated
+    * Graphics tuning by KameRamen
 
 Version 0.8.0
 - General:
