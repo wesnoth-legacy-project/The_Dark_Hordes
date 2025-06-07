@@ -16,6 +16,6 @@ The campaign is currently maintained and under development by Hiroki Hatanaka (K
 Forum thread
 ------------
 
-Bug should be reported in the Wesnoth [forum thread][3]. Updates will also be posted there.
+Bugs should be reported in the Wesnoth [forum thread][3]. Updates will also be posted there.
 
 [3]: <https://r.wesnoth.org/t59240>
