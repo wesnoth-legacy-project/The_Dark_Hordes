@@ -1,7 +1,7 @@
 The Dark Hordes
 ===============
 
-**The Dark Hordes** (**TDH**) is an add-on campaign fora
+**The Dark Hordes** (**TDH**) is an add-on campaign for
 **[Battle for Wesnoth][1]**.
 
 [1]: <https://www.wesnoth.org/>
