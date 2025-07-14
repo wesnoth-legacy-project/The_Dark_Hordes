@@ -70,7 +70,7 @@ Gwiti: However, I only wonder where my brother has disappeared to. Do the gods r
 
 ## Monsters appear from each village
 
-Gwiti: Seems like a bunch of creatures were hiding in the village. Send them to their doom along with the swamp dwellers here
+Gwiti: Seems like a bunch of creatures were hiding in the village. Send them to their doom along with the swamp dwellers here!
 
 ### Pattern 1
 
@@ -180,7 +180,7 @@ Nati: Your doom is almost upon your doorstep, brother!
 
 (reinforcements)
 
-Gwiti: His legions are nothing more than a mishmash... My victory depends on the passage of time.
+Gwiti: His legions are nothing more than a mishmash... My victory depends only on the passage of time.
 
 ## Turn 9
 
@@ -194,7 +194,7 @@ Gwiti: Now the sun is setting... once again. I must slay him and go on my way of
 
 ## Gwiti attacks
 
-Gwiti: I am Gwiti the Mighty, prepare to your doom!
+Gwiti: I am Gwiti the Mighty, prepare for your doom!
 
 ### If the target dies
 
@@ -210,7 +210,7 @@ Nati: And by my own hands you destroyed!
 
 ## Death of Nati - Victory
 
-Nati: I... have failed to win this battle. I am defeated. I will not believe it.
+Nati: I... have failed to win this battle. I am defeated. I don’t believe it.
 
 Gwiti: Die, yes, die, and go to the Land of the Dead. Perhaps one day you will be back under my command!
 
@@ -236,7 +236,7 @@ Gwiti: It is over. I am doomed.
 
 Nati: I will put an end to you right now! Brace yourself!
 
-Gwiti: His legions surrounded me! I seem to have wasted too much of time...
+Gwiti: His legions surrounded me! I seem to have wasted too much time...
 
 # 03. The Skull of Morgorath
 
@@ -252,7 +252,7 @@ Spirit: Gwitiii... Gwiti!
 
 Gwiti: I am familiar with your whispering voice. Are you a sign of my mastery of the undead? You do not seem like an ordinary spirit.
 
-Spirit: Gwiti, do not yet march in pursuit of your revenge. First, you shall go south, against the orcs, and there find the Skull of Morgorath.
+Spirit: Gwiti, do not march yet in pursuit of your revenge. First, you shall go south, against the orcs, and there find the Skull of Morgorath.
 
 Gwiti: Speak on.
 
@@ -308,7 +308,7 @@ Spirit: You are not worthy of the Skull of Morgorath!
 
 After sending the dark spirit away for his failure, Gwiti found some maps in the possession of the orcish soldier and searched for the next direction of the march. Craving the power that was promised to him, he turned towards the Tower of Kaleon, where the greatest magi once studied.
 
-Gwiti headed gradually south, hiding in the darkness, to reach the land near Gray Woods. It was not easy to deceive the eyes of the elven and Northern Alliance scouts, but he knew that the artifact in the Tower of Kaleon was of sufficient worth: the Book of Crelanu.
+Gwiti headed gradually south, hiding in the darkness, to reach the land near Gray Woods. It was not easy to deceive the eyes of the elven and Northern Alliance scouts, but he knew that the artifact in the Tower of Kaleon was of sufficient worth; the Book of Crelanu.
 
 ## Scenario start
 
@@ -398,7 +398,7 @@ Gwiti: The third floor! Closer! Find the book!
 
 Unit: There’s a secret door here! This must be the library.
 
-Guardian: I will not allow the likes of you to lay eye upon the book!
+Guardian: I will not allow the likes of you to lay eyes upon the book!
 
 ## Death of Guardian
 
@@ -422,7 +422,7 @@ According to the journal Gwiti recovered, five centuries after the death of Delf
 
 This gave him great power and he sparked a civil war in Wesnoth, where he seized the Sceptre of Fire and the throne.
 
-After the fall of his empire, the magi feared the book and pondered lest its power pass to the next evil. They decided to hide Crelanu’s work where none would find it, while spreading rumors that it was guarded in the Tower of Kaleon.
+After the fall of his empire, the magi feared the book and pondered how not to let its power pass to the next evil. They decided to hide Crelanu’s work where none would find it, while spreading rumors that it was guarded in the Tower of Kaleon.
 
 Some years later, Gwiti retraced their steps, which led him to a war-torn valley.
 
@@ -474,7 +474,7 @@ Gwiti was spotted by one of the scouts and his presence was made known to Wesnot
 
 ## Scenario start
 
-NA: With the finding of Crelanu’s ancient tome, fresh strength had flowed to Gwiti’s forces, and they had made good time. However, Gwiti’s march was halted by Leonard, who came from Wesnoth as the advance captain. The general of several outlying areas, his troops were many but untrained.
+NA: With the finding of Crelanu’s ancient tome, fresh strength had flowed to Gwiti’s forces, and they had made good time. However, Gwiti’s march was halted by Leonard, who came from Wesnoth as the captain of the advance. The general of several outlying areas, his troops were many but untrained.
 
 Gwiti: I see that your puny kingdom marshals its troops at last... This is the first time since Erzen that I have seen this many Wesnothians.
 
@@ -492,7 +492,7 @@ Leonard: No! This cannot be true! My king, I have failed...
 
 (falls)
 
-Aretu: Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!
+Aretu: Leonard is dead? Oh, what a sad day. Come men, let us destroy those undead!
 
 Gwiti: Only one way lies open now. I must flee where his horses cannot go: the sharp peaks and bottomless caves.
 
@@ -524,7 +524,7 @@ Tanar: Thank you, my new lord! Never had I thought I would see the day when my p
 
 ## Death of Gwiti - Defeat
 
-Gwiti: So this is my doom... the cold and black void...
+Gwiti: So this is my doom... the cold black void...
 
 # 08. Underground Pool
 
@@ -692,7 +692,7 @@ Gwiti: No! No! Noooo! It is over, I feel the shades reaching for me...
 
 ## Time over - Defeat
 
-Gwiti: We spent too much time. Their huge reinforcements had arrived!
+Gwiti: We spent too much time. Their huge reinforcements have arrived!
 
 # 11. An Orcish Coup
 
@@ -814,7 +814,7 @@ Mage: Impossible! Has the council been almost wiped out because of that necroman
 
 (falls)
 
-Gwiti: We have won this battle, but it is only the beginning. From now on, my invasion of Wesnoth will finally begin.
+Gwiti: We have won this battle, but it is only the beginning. My invasion of Wesnoth has finally begun.
 
 ## Death of Gwiti - Defeat
 
