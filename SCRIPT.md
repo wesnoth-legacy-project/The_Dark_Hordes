@@ -782,7 +782,7 @@ Gwiti: Noooo! Not so close to the skull!
 
 ## Story
 
-Tanar decided to use the death of the would be Great Chiefs to subject the local tribes to his own rule. Plans to jointly invade Wesnoth were discussed.
+Tanar decided to use the death of the would-be Great Chiefs to subject the local tribes to his own rule. Plans to jointly invade Wesnoth were discussed.
 
 Gwiti knew that as long as paladins and magi roamed the land, any invasion would be severely hindered. So he decided to strike at the source of his problems: Alduin.
 
