@@ -728,7 +728,7 @@ Gwiti: This potion is powerful as it is going to get. Let’s see the effects.
 
 Gwiti: This should ease the retrieval of the skull, but those chieftains will still be hard to get to.
 
-Tanar: I can distract the patrols, but my clan cannot fight off this horde alone. You must not delay.
+Tanar: I can distract the warriors, but my clan cannot fight off this horde alone. You must not delay.
 
 ## Turn 5
 
