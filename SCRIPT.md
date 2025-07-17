@@ -30,13 +30,13 @@ Dark spirits are messengers and bearers of tidings from the realm of the dead, a
 
 ## Story
 
-At a great battle at the Stone of Erzen, the brothers Gwiti and Nati Ha’atel showed their skills for the first time: thinking that their side was losing the battle, they called upon the corpses of former enemies to rise again and fight on their side.
+With the fall of the Sorcerer Emperor, a previously unspoken peace was restored between the Northern Alliance and Wesnoth, halting its expansion across the Great River and into its neighbors. The lands conquered south of the Heart Mountains were given back to their former rulers, and humans, elves and dwarves set about rebuilding what had been lost to the war. A new rightful king was chosen by the victors, and the Sceptre of Fire, a symbol of royal power, destroyed so that no one could use it to usurp the throne again.
 
-However, not only was this forbidden, but rash as well. The cavalry meant to come as reinforcements instead clashed with the undead legions, and so the battle was lost where it would have been won had it not been for these two dark sorcerers.
+After a few quiet years, another war broke out in the west of the Northlands. From among the squabbling tribes a great chief arose to unite them under a single banner and lead the orcs out of the stagnation that had lasted since the death of Kapou’e, Son of the Black-Eye. Not having enough time to prevent it or forces to abolish the menace, and afraid that this weakness would be exploited and parley would fail to stop or delay the resurgence of raids and conquests, Lord Protector Roban II requested the assistance of King Delvhar I, who sent a host towards the town of Glamdrol, the gathering place of the horde, from where, upon learning of the approaching Wesnothians, it marched south to meet them.
 
-The Ha’atel brothers fled. However, exhausted by the ritual, they were seized not long after by the Wesnothians. They were clapped in irons, marched onto a ship with no rudder, and sent off to drown in the sea, for the Wesnothians feared that their corpses might only rise again.
+In a great battle at the Stone of Erzen, the brothers Gwiti and Nati Ha’atel showed their skills for the first time: thinking that defeat was otherwise inevitable, they called upon the corpses of fallen enemies to rise again and fight on their side. However, not only was this forbidden, but rash as well. The cavalry meant to come as reinforcements and flank the orcs instead clashed with the undead hordes, allowing themselves to be surrounded, and so the Wesnothians were routed where they would have emerged victorious had it not been for these two dark sorcerers.
 
-But fate intervened. The ship carrying Gwiti and Nati was beset by a sudden storm and disintegrated, separating the brothers and washing them both ashore. This was the beginning of the Rise of the Dark Hordes.
+The Ha’atel brothers tried to flee, but were captured by their surviving comrades. For practicing necromancy and causing defeat in battle, they were clapped in irons and marched onto a boat with no rudder before it was set on fire and sent to sink in the sea, for the Wesnothians feared that their corpses and ghosts might rise again. But Fate intervened: a sudden storm beset the vessel and splintered it apart, separating Gwiti and Nati and washing them ashore, alive and free once more. This was the beginning of the Rise of the Dark Hordes.
 
 ## Scenario start
 
