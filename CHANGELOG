@@ -14,6 +14,10 @@ Version 0.11.0+dev
     * Re-rewrite all existing scenarios (WIP included)
     * 13 - Landfall (NEW)
     * 14 - Ambush (NEW)
+- Units
+    * Additional custom units for Elynia
+        + Sylvan Warden
+        + Lady of Light
 
 Version 0.11.0
 - General
