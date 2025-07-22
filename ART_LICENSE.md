@@ -16,4 +16,25 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
  * images/portraits/gwiti-deathmaster.png
  * images/portraits/gwiti-initiate.png
  * images/portraits/nati-deathmaster.png
- 
+
+After the Storm Art (CC BY-NC-ND 4.0)
+-------------------------------------
+
+Copyright (C) 2006 - 2021 by Iris Morelle <shadowm@wesnoth.org>
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Elynia unit sprites:
+
+ * images/units/faeries/elynia-attack-melee-1.png
+ * images/units/faeries/elynia-attack-melee-2.png
+ * images/units/faeries/elynia-attack-melee-3.png
+ * images/units/faeries/elynia-attack-melee-4.png
+ * images/units/faeries/elynia-attack-melee-5.png
+ * images/units/faeries/elynia-attack-melee-6.png
+ * images/units/faeries/elynia-attack-melee-7.png
+ * images/units/faeries/elynia-attack-ranged-1.png
+ * images/units/faeries/elynia-attack-ranged-2.png
+ * images/units/faeries/elynia-defense.png
+ * images/units/faeries/elynia-injured.png
+ * images/units/faeries/elynia.png
