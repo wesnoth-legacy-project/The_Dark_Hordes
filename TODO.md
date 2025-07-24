@@ -14,7 +14,7 @@
   * [L] S7 (make it a little harder)
   * [M] S8 (eliminate bottlenecks for gameplay)
   * [?] S15 (increase gameplay fluidity)
-  * [D] S17 (increase gameplay fluidity)
+  * [D] S17 (make gameplay more rewarding)
 
 ## Cutscenes
   * [!] S6 (review and enhance the first half dialogue)
