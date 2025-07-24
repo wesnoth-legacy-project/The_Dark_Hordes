@@ -3,6 +3,12 @@ The Dark Hordes - Changelog
 
 Version 1.0.1-dev:
 ------------------
+* Scenarios:
+  * S9x - Death and Rebirth:
+    * Renamed from the same title as the campaign.
+    * Some prose editing.
+  * S17x - Epilogue:
+    * Added "The End of Dreams" as the subtitle.
 
 
 Version 1.0.1:
