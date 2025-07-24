@@ -1,8 +1,8 @@
 The Dark Hordes - Changelog
 ===========================
 
-Version 1.0.1-dev:
-------------------
+Version 1.0.2:
+--------------
 * Scenarios:
   * S9x - Death and Rebirth:
     * Renamed from the same title as the campaign.
