@@ -6,7 +6,7 @@
 ## General
   * [M] Replace the codebase with a more optimized one
   * [!] Review and enhance all prose written throughout the entire campaign
-  * [M] Bug fixes for all scenarios
+  * [!] Bug fixes for all scenarios
 
 ## Balancing [M]
   * [L] S3 (review the difficulty appropriateness)
@@ -14,21 +14,22 @@
   * [L] S7 (make it a little harder)
   * [M] S8 (eliminate bottlenecks for gameplay)
   * [?] S15 (increase gameplay fluidity)
-  * [D] S17 (make gameplay more rewarding)
+  * [!] S17 (make gameplay more rewarding)
 
 ## Cutscenes
   * [!] S6 (review and enhance the first half dialogue)
-  * [?] S14 (add conversation with Argan)
+  * [?] S14 (more lines in the cutscene)
 
 ## Units
-  * [!] Write new descriptions for Initiate, Grimreaper, and Deathmaster
+  * [!] Write proper descriptions for Initiate, Grimreaper, and Demilich
   * [L] Write descriptions for Dark Spirit and Sylvan Warden
+  * [?] Replace Tanar with a custom unit
 
 ## Graphics [M]
   * Portraits
     * [!] Demilich and Dread Lich
     * [!] Deathmaster including variations
-    * [!] Susanne
+    * [L] Susanne
     * [!] Tanar
     * [L] Leganoth
     * [D] Morgorath
