@@ -3,6 +3,9 @@ The Dark Hordes - Changelog
 
 Version 1.0.2-dev:
 ------------------
+* General:
+  * Changed from "Part" to "Episode".
+
 * Scenarios:
   * S3 - The Skull of Morgorath:
     * Replaced Gigor with a custom unit.
