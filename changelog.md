@@ -29,6 +29,11 @@ Version 1.0.2-dev:
     * Minor rebalancing.
   * S4 - Mages and Elves:
     * Removed horses in front to avoid sudden death.
+  * S5 - Inside the Tower:
+    * Several additional tunnels and other gimmicks.
+  * S7 - Confrontation:
+    * Added elven reinforcements on a trial basis.
+    * Balancing the Leonard recruit list.
 
 * Units:
   * New advancement unit (line) for Gigor:
