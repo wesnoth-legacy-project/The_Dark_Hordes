@@ -9,6 +9,9 @@ Version 1.0.2-dev:
   * Copied code from SotA so that Necromancer can become Lich in Episode II.
   * Other bug fixes that were overlooked.
 
+* Language and i18n:
+  * Updated translations: Japanese.
+
 * Graphics:
   * New unit graphics: Rogue Mage, Shadow Mage, Shadow Lord
     * Added from TDG campaign.
