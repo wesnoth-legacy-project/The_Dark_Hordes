@@ -11,6 +11,7 @@ Version 1.0.2-dev:
 
 * Language and i18n:
   * Updated translations: Japanese.
+    * About 90% complete.
 
 * Graphics:
   * New unit graphics: Rogue Mage, Shadow Mage, Shadow Lord
@@ -29,11 +30,27 @@ Version 1.0.2-dev:
     * Minor rebalancing.
   * S4 - Mages and Elves:
     * Removed horses in front to avoid sudden death.
+    * Rebalancing.
+    * Updated the map a little.
   * S5 - Inside the Tower:
     * Several additional tunnels and other gimmicks.
   * S7 - Confrontation:
     * Added elven reinforcements on a trial basis.
     * Balancing the Leonard recruit list.
+  * S8 - Underground Pool:
+    * Added several Fire Guardians and other deep creatures.
+  * S9 - Underground River:
+    * Make some bats appear as guardians.
+    * Minor rebalancing on side 2.
+  * S12 - Assault on Alduin:
+    * Updated schedule based on feedback.
+  * S15 - The Crown Prince:
+    * Updated the map a little.
+      * Increased the number of fords in the river.
+      * Added a few more villages.
+  * S17- Revelations:
+    * Added defeat condition as destruction of Gwiti.
+    * Minor balancing.
 
 * Units:
   * New advancement unit (line) for Gigor:
@@ -43,6 +60,7 @@ Version 1.0.2-dev:
       * Removed binary dependency on EI.
       * Shadow Mages can now advance to Dark Sorcerers.
   * Implemented "faerie fire" attack for Elynia.
+  * Some minor fixes related to sound.
 
 
 Version 1.0.2:
