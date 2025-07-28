@@ -56,6 +56,7 @@ Version 1.0.2-dev:
     * Minor rebalancing.
   * S17- Revelations:
     * Added defeat condition as destruction of Gwiti.
+    * Updated victory condition.
     * Balancing to make it harder.
 
 * Units:
