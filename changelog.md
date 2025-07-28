@@ -44,13 +44,19 @@ Version 1.0.2-dev:
     * Minor rebalancing on side 2.
   * S12 - Assault on Alduin:
     * Updated schedule based on feedback.
+    * Added a hidden achievement.
+      * Achieve this to make Chocobones recruitable.
+    * Rebalancing.
   * S15 - The Crown Prince:
     * Updated the map a little.
       * Increased the number of fords in the river.
       * Added a few more villages.
+    * Rebalancing.
+  * S16 - Glyn's Forest:
+    * Minor rebalancing.
   * S17- Revelations:
     * Added defeat condition as destruction of Gwiti.
-    * Minor balancing.
+    * Balancing to make it harder.
 
 * Units:
   * New advancement unit (line) for Gigor:
