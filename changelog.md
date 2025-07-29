@@ -11,7 +11,7 @@ Version 1.0.2-dev:
 
 * Language and i18n:
   * Updated translations: Japanese.
-    * About 90% complete.
+    * 100% done.
 
 * Graphics:
   * New unit graphics: Rogue Mage, Shadow Mage, Shadow Lord
@@ -42,6 +42,8 @@ Version 1.0.2-dev:
   * S9 - Underground River:
     * Make some bats appear as guardians.
     * Minor rebalancing on side 2.
+  * S10 - Return to the Northlands:
+    * Added several veterans who join if you start from Episode II.
   * S12 - Assault on Alduin:
     * Updated schedule based on feedback.
     * Added a hidden achievement.
