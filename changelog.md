@@ -1,13 +1,14 @@
 The Dark Hordes - Changelog
 ===========================
 
-Version 1.0.2-dev:
-------------------
+Version 1.1.0:
+--------------
 * General:
   * Changed from "Part" to "Episode".
   * Replaced Dark Adept recruitment with Rogue Mage.
   * Copied code from SotA so that Necromancer can become Lich in Episode II.
   * Other bug fixes that were overlooked.
+  * Changed required Wesnoth versions to 1.18.0 and later.
 
 * Language and i18n:
   * Updated translations: Japanese.
