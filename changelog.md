@@ -3,6 +3,20 @@ The Dark Hordes - Changelog
 
 Version 1.1.0-dev:
 ------------------
+* General:
+  * Added traits to all enemy leaders in Episode II.
+
+* Scenarios:
+  * S7 - Confrontation:
+    * Fixed an important bug caused by defeat.
+  * S13 - Landfall:
+    * Updated the code for the storm trident more appropriately.
+  * S14 - Ambush:
+    * Bug fixes and some balancing.
+  * S15 - The Crown Prince:
+    * Balancing to make it a little harder.
+  * S17 - Revelations:
+    * Balancing to make it a little harder.
 
 
 Version 1.1.0:
