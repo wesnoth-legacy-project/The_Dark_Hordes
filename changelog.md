@@ -1,8 +1,8 @@
 The Dark Hordes - Changelog
 ===========================
 
-Version 1.1.1-dev:
-------------------
+Version 1.1.2:
+--------------
 * General:
   * Improved event for the "omni-plague" ability.
     * Units that are stronger than regular WCs are sometimes joined.
