@@ -3,6 +3,36 @@ The Dark Hordes - Changelog
 
 Version 1.1.1-dev:
 ------------------
+* General:
+  * Improved event for the "omni-plague" ability.
+    * Units that are stronger than regular WCs are sometimes joined.
+    * From S13 onwards.
+  * Cleaned up variables that were missed.
+
+* Language and i18n:
+  * Updated translations: Japanese.
+
+* Scenarios:
+  * S7 - Confrontation:
+    * Minor balancing for elven reinforcements.
+  * S8 - Underground Pool:
+    * Several additional effects and minor balancing.
+  * S11 - An Orcish Coup:
+    * Increased gold for side 3 a little.
+  * S12 - Assault on Alduin:
+    * Added "Sleeping" display for enemy mages.
+  * S13 - Landfall:
+    * Added a variable to handle the zombie event.
+    * Minor rebalancing.
+  * S15 - The Crown Prince:
+    * Implemented several remaining features:
+      * Added an event where Morgorath randomly steals undead.
+      * Added visual effects.
+      * Many other bug fixes and improvements.
+  * S16 - Glyn's Forest:
+    * Balancing to make it a little harder.
+  * S17 - Revelations:
+    * Tweaked enemy gold based on difficulty.
 
 
 Version 1.1.1:
