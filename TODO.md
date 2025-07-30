@@ -9,8 +9,8 @@
   * [!] Bug fixes for all scenarios
 
 ## Balancing [M]
-  * [L] S3 (review the difficulty appropriateness)
-  * [L] S4 (review the difficulty appropriateness)
+  * [x] S3 (review the difficulty appropriateness)
+  * [x] S4 (review the difficulty appropriateness)
   * [L] S7 (make it a little harder)
   * [M] S8 (eliminate bottlenecks for gameplay)
   * [?] S15 (increase gameplay fluidity)
