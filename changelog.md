@@ -3,6 +3,11 @@ The Dark Hordes - Changelog
 
 Version 1.1.2-dev:
 ------------------
+* Scenarios:
+  * S15 - The Crown Prince:
+    * Balancing to make it a little easier.
+  * S17 - Revelations:
+    * Balancing to make it a little easier.
 
 
 Version 1.1.2:
