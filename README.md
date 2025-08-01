@@ -9,9 +9,9 @@ The Dark Hordes
 Main Repository
 ---------------
 
-The campaign is currently maintained and under development by Hiroki Hatanaka (KameRamen) at the [Wesnoth Legacy Project][2].
+The campaign is currently maintained and under development by Hiroki Hatanaka (KameRamen) at the [official repository][2].
 
-[2]: <https://github.com/wesnoth-legacy-project/The_Dark_Hordes>
+[2]: <https://github.com/aloneTurtle/The_Dark_Hordes>
 
 Forum Thread
 ------------
