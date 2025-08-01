@@ -36,7 +36,6 @@ Elynia unit sprites:
  * images/units/faeries/elynia-attack-ranged-1.png
  * images/units/faeries/elynia-attack-ranged-2.png
  * images/units/faeries/elynia-defense.png
- * images/units/faeries/elynia-injured.png
  * images/units/faeries/elynia.png
 
 Non-Copyrighted Assets (CC0)
