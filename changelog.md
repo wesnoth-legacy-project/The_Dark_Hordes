@@ -3,6 +3,9 @@ The Dark Hordes - Changelog
 
 Version 1.1.3-dev:
 ------------------
+* Units:
+  * Updated the below units to be undead race again:
+    * Initiate, Deathmaster, Grimreaper
 
 
 Version 1.1.3:
