@@ -3,9 +3,17 @@ The Dark Hordes - Changelog
 
 Version 1.1.3-dev:
 ------------------
+* Scenarios:
+  * S4 - Mages and Elves:
+    * Removed code to create snowfall due to a bug.
+  * S7 - Confrontation:
+    * Moved SNOW macro from S4.
+
 * Units:
   * Updated the below units to be undead race again:
     * Initiate, Deathmaster, Grimreaper
+  * Revised description prose.
+  * Removed "injured" variation for Elynia.
 
 
 Version 1.1.3:
