@@ -3,11 +3,27 @@ The Dark Hordes - Changelog
 
 Version 1.1.3-dev:
 ------------------
+* General:
+  * Fixed a crash bug caused by the campaign intro.
+
+* Language and i18n:
+  * Updated translations: Japanese.
+  * Removed all translations that had not been updated.
+
 * Scenarios:
+  * Roughly revised the prose of all scenarios; too many to list.
+    * Made the storyline easier to understand.
+    * Eventually, more fine-tuning and reviews will be required.
   * S4 - Mages and Elves:
     * Removed code to create snowfall due to a bug.
+  * S5 - Inside the Tower:
+    * Added a slight healing effect to ice potions.
   * S7 - Confrontation:
     * Moved SNOW macro from S4.
+  * S15 - The Crown Prince:
+    * Minor balancing for the Morgorath events.
+  * S17x - Epilogue:
+    * Restored Blood.map to its original state.
 
 * Units:
   * Updated the below units to be undead race again:
