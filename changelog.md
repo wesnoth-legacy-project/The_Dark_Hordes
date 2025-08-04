@@ -10,6 +10,10 @@ Version 1.1.3-dev:
   * Updated translations: Japanese.
   * Removed all translations that had not been updated.
 
+* Graphics:
+  * Updated unit graphics: Grimreaper, Demilich, Dread Lich
+  * Applied additional work for variations.
+
 * Scenarios:
   * Roughly revised the prose of all scenarios; too many to list.
     * Made the storyline easier to understand.
@@ -26,6 +30,7 @@ Version 1.1.3-dev:
     * Restored Blood.map to its original state.
 
 * Units:
+  * Applied additional work for variations.
   * Updated the below units to be undead race again:
     * Initiate, Deathmaster, Grimreaper
   * Revised description prose.
