@@ -1,8 +1,8 @@
 The Dark Hordes - Changelog
 ===========================
 
-Version 1.1.3-dev:
-------------------
+Version 1.2.0:
+--------------
 * General:
   * Fixed a crash bug caused by the campaign intro.
 
