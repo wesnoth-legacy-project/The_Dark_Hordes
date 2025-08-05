@@ -34,6 +34,6 @@
     * [L] Leganoth
     * [D] Morgorath
   * Sprites
-    * [!] Gwiti unit sprites including variations
+    * [x] Gwiti unit sprites including variations
     * [?] Susanne unit sprites
 
