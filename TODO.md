@@ -12,7 +12,7 @@
   * [x] S3 (review the difficulty appropriateness)
   * [x] S4 (review the difficulty appropriateness)
   * [L] S7 (make it a little harder)
-  * [M] S8 (eliminate bottlenecks for gameplay)
+  * [?] S8 (eliminate bottlenecks for gameplay)
   * [?] S15 (increase gameplay fluidity)
   * [!] S17 (make gameplay more rewarding)
 
