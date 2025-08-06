@@ -3,6 +3,12 @@ The Dark Hordes - Changelog
 
 Version 1.2.0-dev:
 ------------------
+* General:
+  * Updated to further optimize all code.
+
+* Scenarios:
+  * S15 - The Crown Prince:
+    * Added names to several enemy leaders.
 
 
 Version 1.2.0:
